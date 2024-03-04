@@ -4,6 +4,7 @@ The Hotspot and Heatmap analysis for London traffic 2021 dataset using Arcgis pr
 Hotspot Analysis
 
 In this personal project focused on hotspot analysis in England, UK, various geospatial techniques were employed to analyze traffic data sourced from the UK Government's official website (https://roadtraffic.dft.gov.uk/regions/6). The project involved converting CSV data to a point feature class using an XY Table to Points tool, followed by projecting the feature class to the British National Grid (27700) for consistency. Further analysis was conducted on the traffic attributes of London Major Roads in 2021 using both 'select by attribute' and 'definition query' methods to extract relevant information. A custom hotspot analysis tool was developed to pinpoint locations of high traffic congestion within the city, offering valuable insights for traffic management strategies.
+![Hotspot of London Traffic 2021](https://github.com/SridharManimaran/Hotspot_And_Heatmap_Analysis/blob/main/Hotspot%20Analysis.jpg?raw=true)
 
 Heatmap Analysis
 
