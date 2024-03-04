@@ -9,6 +9,6 @@ Heatmap Analysis
 
 To visualize traffic density across London boroughs, Empirical Bayesian Kriging was utilized in this personal project. The traffic data obtained from the UK Government's official website was processed and analyzed to create a heatmap depicting variations in traffic volume. By leveraging Empirical Bayesian Kriging, the analysis accounted for spatial dependencies and provided a more accurate representation of traffic distribution across the city. This heatmap analysis offers valuable insights for urban planning and transportation management, aiding in the development of strategies to alleviate traffic congestion and improve overall traffic flow in London.
 
-
+![Heatmap of London Traffic 2021] (https://github.com/SridharManimaran/Hotspot_And_Heatmap_Analysis/blob/main/Heatmap%20Analysis.jpg?raw=true)
 
 
